@@ -3,6 +3,13 @@
 Created on Mon Sep 27 10:26:05 2021
 
 @author: william
+
+Aprendiendo clases en python con problemas de física.
+
+
+________________________________________
+
+
 """
 
 #DESAFIO: FUNCIONES CON PARÁMETROS 

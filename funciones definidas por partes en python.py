@@ -3,6 +3,10 @@
 Created on Tue Aug  3 11:10:56 2021
 
 @author: william
+
+graficando funciones definidas por tramos en python.
+
+_______________
 """
 
 #función definida a trozos

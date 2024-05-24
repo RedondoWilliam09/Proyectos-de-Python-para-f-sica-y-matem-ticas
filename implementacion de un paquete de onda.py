@@ -3,6 +3,10 @@
 Created on Fri Aug  6 08:07:24 2021
 
 @author: william
+
+implementanción de un paquete de onda
+
+______
 """
 
 import numpy as np

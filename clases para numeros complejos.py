@@ -3,6 +3,10 @@
 Created on Sat Nov 13 20:00:10 2021
 
 @author: william
+
+construyendo clases para números complejos 
+
+____________________
 """
 # construyendo clases para números complejos 
 

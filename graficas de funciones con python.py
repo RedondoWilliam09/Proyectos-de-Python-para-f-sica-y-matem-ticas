@@ -3,6 +3,12 @@
 Created on Sun Aug  1 08:58:01 2021
 
 @author: william
+
+Coinstruyendo gráficas de funciones con python.
+
+________________________
+
+
 """
 
 # bosquejo de una curva básica 

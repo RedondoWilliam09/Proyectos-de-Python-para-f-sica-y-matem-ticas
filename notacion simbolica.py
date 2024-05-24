@@ -1,3 +1,16 @@
+
+
+
+
+"""
+Practicando la notación simbólica
+
+______
+
+
+"""
+
+
 from math import *
 from sympy import *
 

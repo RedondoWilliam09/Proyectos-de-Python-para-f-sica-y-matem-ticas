@@ -3,6 +3,11 @@
 Created on Sat Aug 28 08:00:51 2021
 
 @author: william
+
+Aprendiendo sobre diccionarios en python.
+
+_________________
+
 """
 
 #28/08=2021

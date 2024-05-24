@@ -3,7 +3,13 @@
 Created on Sun Aug  8 10:39:29 2021
 
 @author: william
+
+Ecuación de la recta en python
+
+_____________________________________
 """
+
+
 import time
 import  matplotlib.pyplot as plt
 import numpy as np
@@ -29,6 +35,6 @@ def axpy2(a,x,y,r):
 r= np.zeros(10000000)
 axpy2(2,x,y,r)
 
-#plt.plot(x,axpy2(2,x,y,r))
+plt.plot(x,axpy2(2,x,y,r))
 
-#print(time.time())
+print(time.time())

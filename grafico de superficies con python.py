@@ -3,6 +3,8 @@
 Created on Fri Aug  6 06:39:33 2021
 
 @author: william
+
+Gráficos de superficies con python
 """
 
 from matplotlib import cm

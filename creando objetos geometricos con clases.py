@@ -3,6 +3,10 @@
 Created on Thu Dec 30 11:16:05 2021
 
 @author: william
+
+de objetos de matemáticas a objetos en python.
+
+________________________________________
 """
 
 class Circle(object):

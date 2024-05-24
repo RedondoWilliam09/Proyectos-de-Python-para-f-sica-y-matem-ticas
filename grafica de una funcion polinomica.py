@@ -1,3 +1,17 @@
+
+
+""""
+Gráfica de una función polinómica en python 
+
+_________
+"""
+
+
+
+
+
+
+
 from matplotlib.pylab import *
 def f(t):
 	return t**2*exp(-t**2)

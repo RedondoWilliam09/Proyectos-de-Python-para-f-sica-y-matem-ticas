@@ -1,5 +1,10 @@
 
-#también podemos hacer computación sombólica en phyton 
+"""
+también podemos hacer computación sombólica en phyton 
+
+________________
+
+"""
 
 
 from sympy import *

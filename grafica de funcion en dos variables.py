@@ -10,6 +10,10 @@ Created on Fri Aug  6 07:33:37 2021
 Created on Fri Aug  6 06:19:13 2021
 
 @author: william
+
+Gráfica de una función en dos variables.
+________
+
 """
 
 #nota: A^2 y A^2 son computacionalmente diferentes, sin embargo, la 

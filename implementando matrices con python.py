@@ -3,6 +3,11 @@
 Created on Thu Aug  5 18:11:55 2021
 
 @author: william
+
+
+implementando matrices con python
+
+_______
 """
 import numpy as np
 #MATRICES DE ORDEN SUPERIOR 

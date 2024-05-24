@@ -1,3 +1,12 @@
+
+"""
+Cálculos de magnitudes físicas con tipos de datos y variables con python.
+
+_________________________
+"""
+
+
+
 vo=5
 g= 9.81
 t= 0.6

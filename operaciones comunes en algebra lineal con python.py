@@ -3,6 +3,10 @@
 Created on Mon Aug  9 07:51:47 2021
 
 @author: william
+
+operaciones comunes en algebra lineal con python
+
+_______
 """
 
 import numpy as np

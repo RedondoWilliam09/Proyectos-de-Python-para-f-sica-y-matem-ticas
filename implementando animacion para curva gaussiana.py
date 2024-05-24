@@ -66,7 +66,7 @@ anim = animation.FuncAnimation(fig, frame, all_args, interval=150,
 
 #construir la pelicula en archivo mp4
 
-anim.save('animacion_matl.gif', fps=7)
+anim.save('animacion_matl.gif', fps=10)
 plt.show()
 
 

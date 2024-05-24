@@ -3,6 +3,11 @@
 Created on Fri Jul 16 06:16:21 2021
 
 @author: william
+
+Comportamiento de vectores gradiente con python
+
+
+_________
 """
 
 import numpy as np

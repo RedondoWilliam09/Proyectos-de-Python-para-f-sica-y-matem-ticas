@@ -3,10 +3,14 @@
 Created on Tue Sep 28 11:36:23 2021
 
 @author: william
+
+implementación de una clase con métodos para emular una función como método
+#de clase para el cálculo de posiciones
+
+___________________________________
+
 """
 
-#implementación de una clase con métodos para emular una función como método
-#de clase para el cálculo de posiciones
 
 class V(object):
     def __init__(self, beta, mu0, n, R):

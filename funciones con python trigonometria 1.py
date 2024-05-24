@@ -3,6 +3,11 @@
 Created on Wed Aug  4 09:27:13 2021
 
 @author: william
+
+
+gráficas de funciones con python.
+
+.............
 """
 
 #función definida a trozos

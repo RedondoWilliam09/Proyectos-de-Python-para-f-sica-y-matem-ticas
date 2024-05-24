@@ -2,11 +2,19 @@
 """
 Created on Tue Jan 11 13:24:10 2022
 
+
 @author: william
+
+
+podemos construir una clase pra integrar una función en una variable 
+#utilizando la regla del trapecio para integración numérica.
+
+
+_________________________________
+
 """
 
-#podemos construir una clase pra integrar una función en una variable 
-#utilizando la regla del trapecio para integración numérica 
+
 
 #la clase toma la siguiente forma 
 

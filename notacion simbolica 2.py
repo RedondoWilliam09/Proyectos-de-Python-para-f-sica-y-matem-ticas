@@ -3,6 +3,13 @@
 Created on Mon Jan  3 21:50:05 2022
 
 @author: william
+
+
+Notacición simbólica con python 2.
+
+_________
+
+
 """
 
 from sympy import (symbols, diff, integrate, Rational, lambdify, sin, exp, cos, latex, simplify, expand)
