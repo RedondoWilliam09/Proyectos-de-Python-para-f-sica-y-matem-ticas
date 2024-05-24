@@ -3,6 +3,10 @@
 Created on Fri Nov 12 22:22:35 2021
 
 @author: william
+
+Clases para vectores en el plano
+
+-_________________________________________________________
 """
 
 class Vec2D(object):

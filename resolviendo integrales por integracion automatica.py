@@ -3,6 +3,9 @@
 Created on Mon Nov  1 20:27:19 2021
 
 @author: william
+
+Resoliviendo integrales por integración automática.
+
 """
 
 # integración numérica con python 

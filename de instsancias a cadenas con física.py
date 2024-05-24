@@ -3,6 +3,10 @@
 Created on Wed Jan 12 12:25:39 2022
 
 @author: william
+
+Entendiendo arquitectura de código con problemas de física
+
+_______________________________________
 """
 
 class Y:

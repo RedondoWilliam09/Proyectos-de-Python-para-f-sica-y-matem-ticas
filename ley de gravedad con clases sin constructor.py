@@ -3,6 +3,13 @@
 Created on Thu Jan 20 09:05:26 2022
 
 @author: william
+
+
+
+Calculo de la fuerza entre dos objetos implementando una clase gravedad.
+
+
+___________________________________________________
 """
 
 class Gravity(object):

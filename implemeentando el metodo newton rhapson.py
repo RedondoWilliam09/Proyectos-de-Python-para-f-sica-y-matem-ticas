@@ -1,54 +1,17 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Dec 30 11:45:06 2021
+Created on Sat Jan  1 23:27:01 2022
 
 @author: william
+
+Implementación del método Newton Rhapson en problema de resolución de 
+polinomios
+
+
+______________________________________________________________________
+
 """
 
-#7.3 métodos especiales 
-
-#7.3.2. derivación con método numérico...
-
-class Derivative(object):
-    def __init__(self, f, h = 1E-5):
-        self.f = f
-        self.h = float(h)
-    
-    def __call__(self, x):
-        f, h = self.f, self.h #lo hacemos de la forma corta
-        return (f(x + h)-f(x))/h
-
-#aplcación de la clase para diferenciar dos funciones
-
-from math import sin, cos, pi
-df = Derivative(sin)
-x = pi
-c = df(x)
-print(c)
-print(cos(x))
-
-def g(t):
-    return t**3
-
-dg = Derivative(g)
-t= 1
-print(dg(t))
-
-#función de prueba para la clase Derivative ..
-
-def test_Derivative():
-    #la f´órmula es exacta para funciones lineales, independientemente de h
-    f = lambda x: a*x + b
-    a = 3.5; b = 8
-    dfdx = Derivative(f, h = 0.5)
-    diff = abs(dfdx(4.5) - a)
-    assert diff < 1E-14, 'error en la clase Derivative, diff = %s' % diff
-    
-
-
- #------------------------------------
- #inmplemetación del método de newton Rhason
- 
 def Newton(f, x, dfdx, epsilon = 1.0E-7, N = 100, store = False):
     f_value = f(x)
     n = 0
@@ -132,31 +95,9 @@ print(Newton(H, x0, dH, epsilon = 1E-5))
 
 
 
-# REPASO DE LA LIBRERIA SYMPY PARA NOTACION SIMBÓLICA (REVISAR .PY DE REPASO )
-
-#----------------------------------------------------------
-
-#REGRESANDO A LA CLASE DERIVATIVE Y UTILIZANDO UNA DERIVACIÓN EXActa el codigo toma la forma...
-
-class Derivative_sympy(object):
-    def __init__(self, f):
-        from sympy import Symbol, diff, lambdify
-        x = Symbol('x')
-        sympy_f = f(x)
-        sympy_dfdx = diff(sympy_f, x)
-        self.__call__ = lambdify([x], sympy_dfdx)
-
-
+# (Revisar código)
 
 
     
     
-
-
-
-
-
-
-
-
-
+    

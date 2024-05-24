@@ -3,6 +3,10 @@
 Created on Sat Jan 22 10:52:43 2022
 
 @author: william
+
+Aprendiendo aritmética de intervalos con clases.
+
+______________________________________
 """
 
 

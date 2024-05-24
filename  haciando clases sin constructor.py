@@ -3,9 +3,12 @@
 Created on Wed Sep 29 10:50:24 2021
 
 @author: william
+
+Resoloviendo problemas simples implementando clases sin constructor
+
+_______________________________________________________________
 """
 
-#sin el constructor nuestra clase Y ahora puede implementase como:
 
 
 

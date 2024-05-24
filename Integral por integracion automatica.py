@@ -3,6 +3,10 @@
 Created on Mon Nov  1 20:27:19 2021
 
 @author: william
+
+Ejercicio de integración por integración automática
+
+______________________________________________
 """
 
 # integración numérica con python 
@@ -198,7 +202,7 @@ p1_plus_p2_value = p1(x) + p2(x)
 p3_value = p3(x)
 print(p1_plus_p2_value - p3_value)
 
-forma elegante de escribir polinomios 
+#forma elegante de escribir polinomios 
 
         
     

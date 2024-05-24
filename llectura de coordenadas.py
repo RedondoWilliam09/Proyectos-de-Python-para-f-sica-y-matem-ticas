@@ -5,7 +5,7 @@ Created on Sun Sep 26 15:58:27 2021
 @author: william
 """
 
-# primer método: extracción de sub cadenas 
+# Impementación de un programa para la lectura de coordenadas en un plano
 
 infile = open('D:/Desktop/curso phyton física/xyz.dat', 'r')
 coor =[] #lista de tuplas (x,y,z) 

@@ -3,6 +3,10 @@
 Created on Fri Jan 14 08:55:17 2022
 
 @author: william
+
+Implementación de una clase para crear objetos tipo vectores en dos dimensiones.
+
+__________________________________________________________________________
 """
 
 # podemos implementar una clase para representar vectores en 2 dimensiones de la siguioente forma...
